@@ -1,0 +1,162 @@
+
+/* gift card */
+
+/* add bg-pink class too */
+
+.ui-boxx .gift-image{
+    width:95% !important;
+    height: 150px!important;
+  }
+  .ui-boxx .gift-image-send{
+      width:100% !important;
+      height: 80px!important;
+    }
+  .gift-name{
+      margin:auto;
+      text-align: center;
+  }
+  .gift-name-send{
+      margin:auto;
+      text-align: center;
+  }
+  .send-gifs-choose{
+      border:none; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);background-color: white;
+  }
+  .selected {
+      box-shadow: 0 4px 8px 0 rgba(200, 0, 0, 0.3), 0 6px 10px 0 rgba(200, 0, 0, 0.4)!important;
+    }
+  
+  .column1{
+      width:10%;
+      height:auto;
+      padding:1px;
+  }
+  .column2{
+      width:40%;
+      height:auto;
+      padding:1px;
+      padding-top:7px;
+  }
+  .column3{
+      width:40%;
+      height:auto;
+      padding:1px;
+      float:right;
+      margin-left: auto;
+      margin-right: 0px;
+  }
+  .column4{
+      width:7%;
+      height:auto;
+      padding:1px;
+      padding-top: 10px;
+  }
+  
+  .panel-mutual-friends-gift li
+  {float:left;width:20px;height:20px;margin-right:-10px;margin-top:0px;
+  }
+  
+  .post-avatar-picture-gift{background-size:cover;background-repeat:no-repeat;background-position:center;background-color:#eee;width:100%;height:100%;padding-top:100%;overflow:hidden;min-width:20px;min-height:20px;display:block;border-radius:50%}.post-avatar-picture-gift.small{min-width:20px;min-height:20px}.post-avatar-picture-gift.large{min-width:60px;min-height:60px}.post-avatar-picture.rounded{border-radius:50%}
+  
+  @media (max-width:576px){
+      .column1{
+          width:10%;
+          height:auto;
+          padding:1px;
+      }
+      .column2{
+          width:50%;
+          height:auto;
+          padding:1px;
+          padding-top:7px;
+          padding-left: 5px;
+      }
+      .column3{
+          width:31%;
+          height:auto;
+          padding:1px;
+          float:right;
+          margin-left: auto;
+          margin-right: 0px;
+          
+      }
+      .column4{
+          width:9%;
+          height:auto;
+          padding:1px;
+          padding-top: 10px;
+          margin-left: auto;
+          margin-right: 0px;
+      }
+      
+      .panel-mutual-friends-gift li
+      {float:left;width:20px;height:20px;margin-right:-20px;margin-top:0px;
+      }
+  
+  }
+  
+  @media (max-width:400px){
+      .column2{
+          width:40%;
+          height:auto;
+          padding:1px;
+          padding-top:7px;
+          padding-left: 15px;
+      }
+      .column4{
+          width:12%;
+          height:auto;
+          padding:1px;
+          padding-top: 10px;
+          margin-left: auto;
+          margin-right: 0px;
+      }
+      
+  }
+  
+  
+  .dot {
+      width: auto;
+      background-color:  #f8f9fa;
+      border-radius: 100%;
+      display: inline-block;
+      border:none; box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.13);
+      padding-left:5px;
+      padding-right:5px;
+      cursor: pointer;
+    }
+  
+    @media (max-width:980px){
+  
+      .btn-md, .btn-group-md>.btn {
+        font-size: 15px;
+        padding: 16px 56px;
+    }
+    
+    .btn-md.btn-icon {
+        padding: 17px 20px;
+    }
+      }
+    @media (max-width:585px){
+  
+      .btn-md, .btn-group-md>.btn {
+        font-size: 14px;
+        padding: 16px 56px;
+    }
+    
+    .btn-md.btn-icon {
+        padding: 17px 20px;
+    }
+    .btn-side{
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px !important;
+      margin-top: 10px !important;
+    }
+    .gift-cards{
+      margin-left:-2px;
+    }
+  }
+    /* gift card */
+  
